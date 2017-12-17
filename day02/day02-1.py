@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 lines = []
-with open("day02.input") as f:
+with open("input") as f:
 	for line in f:
 		split = map(int, line.rstrip().split("\t"))
 		lines += [split]

@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-f = open("day01.input","r")
+f = open("input","r")
 
 captcha = (f.readline())
 
